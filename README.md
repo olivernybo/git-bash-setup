@@ -22,7 +22,7 @@ Referer til **#terminal-commands** på discord hvis du er usikker på hvad de f�
 ...how to vim
 
 Indsæt derefter følgende i den nyoprettede **.bash_profile**
-```
+```bash
 # Her sætter vi vores farver, dette er bare lokale variabler
 username_color=$(tput setaf 7);
 directory_color=$(tput setaf 3);
