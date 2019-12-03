@@ -63,3 +63,6 @@ Skriv så `:wq` for at gemme filen og lukke den.
 Efter en genstart af Git Bash skulle jeres terminal gerne ligne denne
 ![](pretty_git_bash.png)
 > Selvfølgelig med et andet *username*
+
+Hvis du prøver at `cd` ind i et *Git repository* er det også muligt at se hvilken *branch* man er på.
+![](master_in_prompt.png)
