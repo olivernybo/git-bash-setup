@@ -64,6 +64,8 @@ Efter en genstart af Git Bash skulle jeres terminal gerne ligne denne
 ![](pretty_git_bash.png)
 > Selvfølgelig med et andet *username*
 
+Hvis du ikke er tilfreds med farverne, kan de ændres ved at redigere de forskellige `tput setaf` *statements*. *Color tables* er nemme at finde på Google og Stack Overflow.
+
 Hvis du prøver at `cd` ind i et *Git repository* er det også muligt at se hvilken *branch* man er på.
 ![](master_in_prompt.png)
 
