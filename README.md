@@ -66,3 +66,17 @@ Efter en genstart af Git Bash skulle jeres terminal gerne ligne denne
 
 Hvis du prøver at `cd` ind i et *Git repository* er det også muligt at se hvilken *branch* man er på.
 ![](master_in_prompt.png)
+
+## Terminus
+Det er også muligt at installere endnu en *third party* terminal og udskifte deres *shell* med Git Bash.
+
+Jeg brugser selv en der hedder Terminus. Den har mange *customization options* samt en **Login Manager** til *servere*.
+
+Det eneste *drawback* med Terminus er, at den er bygget på **Electron**, som er bygget på **Chromium**. Hvis du ikke har mange *system resources* eller ikke stoler på Google, er det nok ikke den rette terminal for dig, ellers fortsæt.
+
+Start med at downloade deres nyeste release fra [deres GitHub](https://github.com/Eugeny/terminus/releases/tag/latest).
+
+Efter at Terminus er installeret, gå til **Settings** og vælg **Shell**. I **Profile** vælg Git Bash.
+
+Efter en genstart af Terminus skulle det gerne se sådan ud
+![](terminus.png)
