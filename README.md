@@ -28,7 +28,7 @@ $ touch .bash_profile
 Disse kommandoer er også beskrevet i **#terminal-commands** på Discord.
 
 Derefter åbner vi filen med **VIM**
-> *IKKE* ***NANO*** `vim > nano`
+> *IKKE* ***NANO*** *cuz VIM better*
 ```
 $ vim .bash_profile
 ```
