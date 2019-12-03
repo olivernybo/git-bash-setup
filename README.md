@@ -10,7 +10,7 @@ Git Bash skulle gerne være installeret på forhånd fra vi installerede Git. Hv
 
 ## Customization
 Når du åbner Git Bash skulle du gerne se noget lignende dette
-![](ugly_git_bash.png)
+![](images/ugly_git_bash.png)
 
 Personlig er jeg ikke fan af den *prompt*, så lad os customize den lidt.
 
@@ -61,13 +61,13 @@ Tryk så på `ESC` for at gå ud af *insert mode*.
 Skriv så `:wq` for at gemme filen og lukke den.
 
 Efter en genstart af Git Bash skulle jeres terminal gerne ligne denne
-![](pretty_git_bash.png)
+![](images/pretty_git_bash.png)
 > Selvfølgelig med et andet *username*
 
 Hvis du ikke er tilfreds med farverne, kan de ændres ved at redigere de forskellige `tput setaf` *statements*. *Color tables* er nemme at finde på Google og Stack Overflow.
 
 Hvis du prøver at `cd` ind i et *Git repository* er det også muligt at se hvilken *branch* man er på.
-![](master_in_prompt.png)
+![](images/master_in_prompt.png)
 
 ## Terminus
 Det er også muligt at installere endnu en *third party* terminal og udskifte deres *shell* med Git Bash.
@@ -81,4 +81,4 @@ Start med at downloade deres nyeste release fra [deres GitHub](https://github.co
 Efter at Terminus er installeret, gå til **Settings** og vælg **Shell**. I **Profile** vælg Git Bash.
 
 Efter en genstart af Terminus skulle det gerne se sådan ud
-![](terminus.png)
+![](images/terminus.png)
