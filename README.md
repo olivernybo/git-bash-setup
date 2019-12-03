@@ -3,7 +3,7 @@
 ## Hvorfor Git Bash?
 Git Bash er *bare* en alternativ kommandoprompt, men den har den specielle egenskab at konvertere **UNIX** kommandoer om til noget **Windows** styresystemet kan forstå.
 
-En god grund til at bruge Git Bash som ens *daily driver* er for at få disse **UNIX** kommandoer ind under huden, for i praksis køre 99% af alle virksomheders *servere* en form for **Linux** (**UNIX**). Ved at bruge Git Bash undgår derved også dumme fejl, hvor man for eksempel kommer til at skrive en **Windows** kommando på ens *server* eller vise versa.
+En god grund til at bruge Git Bash som ens *daily driver* er for at få disse **UNIX** kommandoer ind under huden, for i praksis køre 99% af alle virksomheders *servere* en form for **Linux** (**UNIX**). Ved at bruge Git Bash undgår man derved også dumme fejl, hvor man for eksempel kommer til at skrive en **Windows** kommando på ens *server* eller vise versa.
 
 ## Installation
 Git Bash skulle gerne være installeret på forhånd fra vi installerede Git. Hvis ikke så kør [Git installer'en](https://git-scm.com/downloads).
