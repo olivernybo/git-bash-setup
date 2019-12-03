@@ -38,9 +38,9 @@ For at gå i *insert mode* tryk på `i`.
 Indsæt så følgende (højre klik *paste*)
 ```bash
 # Her sætter vi vores farver, dette er bare lokale variabler
-username_color=$(tput setaf 7);
-directory_color=$(tput setaf 3);
 general_text_color=$(tput setaf 7);
+username_color=$general_text_color; # Samme farve som start_color - $(tput setaf 7)
+directory_color=$(tput setaf 3);
 start_color=$(tput setaf 1);
 branch_color=$start_color; # Samme farve som start_color - $(tput setaf 1)
 bold=$(tput bold);
