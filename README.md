@@ -76,7 +76,7 @@ Jeg brugser selv en der hedder Terminus. Den har mange *customization options* s
 
 Det eneste *drawback* med Terminus er, at den er bygget på **Electron**, som er bygget på **Chromium**. Hvis du ikke har mange *system resources* eller ikke stoler på Google, er det nok ikke den rette terminal for dig, ellers fortsæt.
 
-Start med at downloade deres nyeste release fra [deres GitHub](https://github.com/Eugeny/terminus/releases/tag/latest).
+Start med at downloade deres nyeste release fra [deres GitHub](https://github.com/Eugeny/terminus/releases/latest).
 
 Efter at Terminus er installeret, gå til **Settings** og vælg **Shell**. I **Profile** vælg Git Bash.
 
