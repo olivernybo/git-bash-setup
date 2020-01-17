@@ -51,7 +51,7 @@ PS1="\[${bold}\]";
 PS1+="\[${username_color}\]\u";
 PS1+="\[${general_text_color}\] in ";
 PS1+="\[${directory_color}\]\W ";
-PS1+="\[${branch_color}\]\$(__git_ps1 '(%s) ')"
+PS1+="\[${branch_color}\]\$(__git_ps1 '(%s) ')";
 PS1+="\[${start_color}\]\$ \[${reset}\]";
 
 export PS1 # Når vi er færdige eksportere vi variablet
